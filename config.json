@@ -1,0 +1,9 @@
+{
+	"ip":"DiscoverCraft.aternos.me",
+	"port": "23493",
+	"name": "JANGAN LUPA BELI RANK:V",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
