@@ -1,7 +1,7 @@
 {
-	"ip":"DiscoverHub.aternos.me",
-	"port": "49375",
-	"name": "JANGAN LUPA BELI RANK:V",
+	"ip":"DiscoverCraft.aternos.me",
+	"port": "23493",
+	"name": "botserver",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register pass123 ",
