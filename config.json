@@ -1,6 +1,6 @@
 {
-	"ip":"network12.cpancloud.site",
-	"port": "19140",
+	"ip":"DiscoverCraftS2.aternos.me",
+	"port": "36987",
 	"name": "botserver",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
